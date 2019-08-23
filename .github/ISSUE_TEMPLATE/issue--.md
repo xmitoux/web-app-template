@@ -2,7 +2,7 @@
 name: issue追加
 about: issue追加用テンプレート
 title: "[] "
-labels: feature
+labels: ''
 assignees: ''
 
 ---
