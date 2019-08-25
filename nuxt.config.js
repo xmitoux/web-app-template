@@ -61,7 +61,12 @@ export default {
     /*
      ** You can extend webpack config here
      */
-    extend(config, ctx) {},
+    extend(config, { isClient }) {
+      // クライアントのバンドルの Webpack 設定のみを拡張する
+      if (isClient) {
+        config.devtool = '#source-map';
+      }
+    },
   },
 
   vue: {
