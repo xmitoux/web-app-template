@@ -3,16 +3,13 @@
     <div>
       <Logo />
       <h1 class="title">
-        drink-water
+        🎉Awesome Template🎉
       </h1>
       <h2 class="subtitle">
-        Have you drunk some water?
+        Hello, Nuxt.js🌲 + Vuetify✨ + Firebase🔥!!!
       </h2>
       <div class="links">
-        <a href="https://nuxtjs.org/" target="_blank" class="button--green">
-          Documentation
-        </a>
-        <a href="https://github.com/nuxt/nuxt.js" target="_blank" class="button--grey">
+        <a href="https://github.com/xmitoux/web-app-template" target="_blank" class="button--grey">
           GitHub
         </a>
       </div>
