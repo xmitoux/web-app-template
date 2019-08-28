@@ -1,6 +1,6 @@
-# drink-water
-
-> Have you drunk some water?
+# WEBアプリ作成用テンプレート
+ WEBアプリをさくっと作り始めるためのテンプレートリポジトリです。
+ Nuxt.js + Vuetify + Firebase を使います。
 
 ## Build Setup
 
