@@ -1,7 +1,7 @@
 {
-  "name": "drink-water",
+  "name": "web-app-template",
   "version": "1.0.0",
-  "description": "Have you drunk some water?",
+  "description": "Awesome web app template",
   "author": "xmitoux",
   "private": true,
   "scripts": {
